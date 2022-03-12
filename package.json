@@ -1,0 +1,13 @@
+{
+  "name": "st-demo-alpha",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "hongda",
+  "license": "MIT",
+  "scripts": {
+    "start": "vite"
+  },
+  "devDependencies": {
+    "vite": "^2.8.6"
+  }
+}
